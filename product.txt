@@ -1,0 +1,6 @@
+Popular,Latte,3,2,1
+Popular,Soda,1,1,1
+Normal,Water,4,1,1
+Popular,LemonTea,2,5,1
+Normal,Banana,7,1,1
+Normal,Tea,8,1,1
